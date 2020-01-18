@@ -44,5 +44,5 @@ A real time operating system for personal use.
 ==============================================================================================*/
 	
 	
-![image](https://github.com/List-View/NanoRTOS/blob/master/123.JPG)
+
 
